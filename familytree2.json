@@ -16,6 +16,7 @@
             "name": "Vijaya ",
             "date_of_birth": "1998-02-15",
             "profession": "Engineer",
+            "Hobby": "Travelling",
             "parents": {
                 "father": "0x2",
                 "mother": "0x3"
@@ -31,6 +32,7 @@
             "name": "Kusum Samarasinghe",
             "date_of_birth": "1966-03-10",
             "profession": "Engineer",
+            "Hobby": "Reading",
             "parents": null,
             "deceased": true,
             "children": [
@@ -47,6 +49,7 @@
             "name": "Kusuma Samaranayake",
             "date_of_birth": "1966-05-10",
             "profession": "Housewife",
+            "Hobby": "Gardening",
             "parents": null,
             "deceased": false,
             "children": [
@@ -63,6 +66,7 @@
             "name": "Vishwa Siyabalapitiya",
             "date_of_birth": "1994-03-19",
             "profession": "Doctor",
+            "Hobby": "Gaming",
             "parents": {
                 "father": "0x2",
                 "mother": "0x3"
@@ -78,6 +82,7 @@
             "name": "Supun Siyabalapitiya",
             "date_of_birth": "1996-06-25",
             "profession": "Teacher",
+            "Hobby": "Reading",
             "parents": {
                 "father": "0x2",
                 "mother": "0x3"
