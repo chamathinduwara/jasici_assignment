@@ -19,6 +19,8 @@ node person {
 
     has age;
     has days_to_birthday;
+    has profession_list;
+
 
     can get_age {
         today_date = date.date_now();
