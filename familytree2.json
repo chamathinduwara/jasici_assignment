@@ -1,1 +1,91 @@
-
+{
+    "families": [
+        {
+            "family_name": "Siyabalapitiya",
+            "uid": "0x1"
+        },
+        {
+            "family_name": "Bandara",
+            "uid": "0x2"
+        }
+    ],
+    "members": [
+        {
+            "uid": "0x1",
+            "family_id": "0x1",
+            "name": "Vijaya ",
+            "date_of_birth": "1998-02-15",
+            "profession": "Electrical Engineer",
+            "parents": {
+                "father": "0x2",
+                "mother": "0x3"
+            },
+            "deceased": false,
+            "children": [],
+            "spouse": null,
+            "gender": "Male"
+        },
+        {
+            "uid": "0x2",
+            "family_id": "0x1",
+            "name": "Kusum Samarasinghe",
+            "date_of_birth": "1966-03-10",
+            "profession": "Civil Engineer",
+            "parents": null,
+            "deceased": true,
+            "children": [
+                "0x1",
+                "ox4",
+                "0x5"
+            ],
+            "spouse": "0x3",
+            "gender": "Male"
+        },
+        {
+            "uid": "0x3",
+            "family_id": "0x2",
+            "name": "Kusuma Samaranayake",
+            "date_of_birth": "1966-05-10",
+            "profession": "Housewife",
+            "parents": null,
+            "deceased": false,
+            "children": [
+                "0x1",
+                "0x4",
+                "0x5"
+            ],
+            "spouse": "0x2",
+            "gender": "Female"
+        },
+        {
+            "uid": "0x4",
+            "family_id": "0x1",
+            "name": "Vishwa Siyabalapitiya",
+            "date_of_birth": "1994-03-19",
+            "profession": "Doctor",
+            "parents": {
+                "father": "0x2",
+                "mother": "0x3"
+            },
+            "deceased": false,
+            "children": [],
+            "spouse": null,
+            "gender": "Female"
+        },
+        {
+            "uid": "0x5",
+            "family_id": "0x1",
+            "name": "Supun Siyabalapitiya",
+            "date_of_birth": "1996-06-25",
+            "profession": "Soldier",
+            "parents": {
+                "father": "0x2",
+                "mother": "0x3"
+            },
+            "deceased": false,
+            "children": [],
+            "spouse": null,
+            "gender": "Male"
+        }
+    ]
+}
