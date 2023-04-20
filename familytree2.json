@@ -14,8 +14,9 @@
             "uid": "0x1",
             "family_id": "0x1",
             "name": "Vijaya ",
-            "date_of_birth": "1998-02-15",
+            "date_of_birth": "1998-02-16",
             "profession": "Engineer",
+            "hobby": "Travelling",
             "parents": {
                 "father": "0x2",
                 "mother": "0x3"
@@ -29,8 +30,9 @@
             "uid": "0x2",
             "family_id": "0x1",
             "name": "Kusum Samarasinghe",
-            "date_of_birth": "1966-03-10",
-            "profession": "Engineer",
+            "date_of_birth": "1966-03-11",
+            "profession": "Doctor",
+            "hobby": "Reading",
             "parents": null,
             "deceased": true,
             "children": [
@@ -47,6 +49,7 @@
             "name": "Kusuma Samaranayake",
             "date_of_birth": "1966-05-10",
             "profession": "Housewife",
+            "hobby": "Gardening",
             "parents": null,
             "deceased": false,
             "children": [
@@ -62,7 +65,8 @@
             "family_id": "0x1",
             "name": "Vishwa Siyabalapitiya",
             "date_of_birth": "1994-03-19",
-            "profession": "Doctor",
+            "profession": "Engineer",
+            "hobby": "Gaming",
             "parents": {
                 "father": "0x2",
                 "mother": "0x3"
@@ -78,6 +82,7 @@
             "name": "Supun Siyabalapitiya",
             "date_of_birth": "1996-06-25",
             "profession": "Teacher",
+            "hobby": "Reading",
             "parents": {
                 "father": "0x2",
                 "mother": "0x3"
