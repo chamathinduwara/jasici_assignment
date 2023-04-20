@@ -31,7 +31,7 @@
             "family_id": "0x1",
             "name": "Kusum Samarasinghe",
             "date_of_birth": "1966-03-10",
-            "profession": "Engineer",
+            "profession": "Doctor",
             "Hobby": "Reading",
             "parents": null,
             "deceased": true,
@@ -65,7 +65,7 @@
             "family_id": "0x1",
             "name": "Vishwa Siyabalapitiya",
             "date_of_birth": "1994-03-19",
-            "profession": "Doctor",
+            "profession": "Engineer",
             "Hobby": "Gaming",
             "parents": {
                 "father": "0x2",
